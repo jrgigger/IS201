@@ -1,0 +1,9 @@
+body {
+    background-color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+.ordered {
+    text-decoration: underline;
+
+.heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
